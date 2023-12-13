@@ -1,0 +1,10 @@
+xor x1(x1o, A, B);
+and a1(a1o, A, B);
+and a2(a2o, Cin, x1o);
+xor x2(S, Cin, x1o);
+or o1(Cout, a1o, a2o);
+end
+
+A 0.5
+B 0.5
+Cin 0.5
