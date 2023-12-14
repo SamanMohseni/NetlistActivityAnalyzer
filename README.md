@@ -7,7 +7,7 @@ This project is part of the **Low Power Design** course.
 
 The Activity Analyzer is a C++ program designed to analyze the activity of digital circuits. The aim of the project is to calculate the overall activity of a given digital circuit based on the probabilities of inputs being logically '1' (P1) and the fanout of each wire within the circuit.
 
-The code reads a netlist input, which is a formal description of the digital circuit, and processes it to fill in data structures representing the circuit's gates and wires. It then calculates the activity of each wire and the total activity of the circuit.
+The code reads a netlist input, and processes it to fill in data structures representing the circuit's gates and wires. It then calculates the activity of each wire and the total activity of the circuit.
 
 ## Method
 
