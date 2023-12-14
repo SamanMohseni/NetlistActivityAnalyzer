@@ -1,5 +1,5 @@
 # NetlistActivityAnalyzer
-This project is part of Low Power Design course.
+This project is part of the **Low Power Design** course.
 
 # Activity Analyzer for Digital Circuits
 
