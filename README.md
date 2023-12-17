@@ -1,5 +1,5 @@
 # NetlistActivityAnalyzer
-This project is part of the **Low Power Design** course.
+This project was originally conducted as part of the **Spring 2021 Low Power Design** course.
 
 # Activity Analyzer for Digital Circuits
 
@@ -70,3 +70,6 @@ After running the program with the above inputs, the results obtained match the 
 ## Usage
 
 To use the Activity Analyzer, provide the netlist file along with the input probabilities as in `SampleNetlist.txt`. Run the program to calculate the activity levels of the digital circuit.
+
+## Acknowledgments
+Course instructor: [Dr. Alireza Ejlali](https://scholar.google.com/citations?user=H7G8s68AAAAJ&hl=en)
